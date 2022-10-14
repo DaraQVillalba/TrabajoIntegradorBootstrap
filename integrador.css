@@ -1,0 +1,99 @@
+.color-navbar {
+    background-color:rgb(62, 65, 73);
+    padding: 10px 40px;
+}
+.color-comprar-tickets {
+    color: green;
+}
+.color-gris-menu {
+    color:rgb(202, 200, 200);
+}
+.padding-right {
+    padding-right: 60px;
+}
+.color-laconferencia {
+    color: white;
+}
+.color-imagenes-oscuras {
+    filter:brightness(.5)
+}
+.color-boton {
+    background-color: green;
+}
+.pad-cards {
+    padding: 0px 40px 20px;
+}
+.margen-cards {
+    padding: 0px 15px 20px 15px;
+}
+.mp {
+    margin: 0;
+    padding: 0;
+}
+.tamaño-conoce-oradores {
+    font-size: 9px;
+    color: rgb(105, 103, 103);
+}
+.oradores {
+    font-size: 25px;
+}
+.margin-a {
+    margin: 10px;
+}
+.react {
+    background-color: #35b4ce;
+    color: white;
+}
+.negocios {
+    background-color: rgb(105, 103, 103);
+    color: white;
+}
+.startups {
+    background-color: rgb(199, 5, 5);
+    color: white;
+}
+.card-honolulu {
+    background-color: rgb(54, 56, 61) ;
+    color: white;
+    font-size: 12.5px;
+}
+.borde-honolulu {
+    border-right: white 1px solid;
+}
+.color-boton-enviar {
+    background-color: rgb(114, 184, 10);
+}
+.texto-form {
+    color: gray;
+    font-size: 13px;
+}
+#underline{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+.tamaño-conoce-oradores2 {
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+}
+.footer {
+    margin: 10px 20px;
+    color: white;
+    font-size: 14px;
+}
+.fondo-footer {
+    background: linear-gradient(to right, #033564, #026a86);
+}
+.desliz:hover{
+    color:#000000 !important;
+    }
+
+@media (max-width: 650px) {
+    .text-carousel  {
+        font-size: 84%;
+    }
+}
+@media (max-width: 480px) {
+    .text-carousel  {
+        font-size: 60%;
+    }
+}
